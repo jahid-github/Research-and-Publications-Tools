@@ -1,74 +1,57 @@
 ### [Overall a Complete Guide of a reaserch article](https://www.wileyresearcheracademy.com/l/pdp/a-complete-guide-to-the-key-components-of-a-research-article?fbclid=IwZnRzaAQO4etleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEeKAFa6jhPQTGNNteWcAPmMKJ0tu8H-LE2P-vckTLIXOdWAPTAaXBwOjlu4uM_aem_33YtF5qWVLJKEugZ43jxrA&fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQKNjYyODU2ODM3OQABHigBWuo4T0ExjTbXlnAD5jCidLbvB_ixNj_r3JEyyFznVgD0wGlwcDo5buLj_aem_33YtF5qWVLJKEugZ43jxrA)
+
 ✍️ 𝐏𝐡𝐚𝐬𝐞 𝟏: 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 & 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐃𝐞𝐬𝐢𝐠𝐧
 
-[1. How to identify research gaps (12 min)](https://researcheracademy.elsevier.com/research-preparation/research-design/identify-research-gaps)
-https://lnkd.in/g6XP8V5N
+[1. How to identify research gaps (12 min)](https://lnkd.in/g6XP8V5N)
 
-2. How to find relevant research papers (15 min)
-https://lnkd.in/gEaU7m76
+[2. How to find relevant research papers (15 min)](https://lnkd.in/gEaU7m76)
 
-3. How to conduct evidence-based research (38 min)
-https://lnkd.in/gqDY9cwC 𝐋𝐢𝐭𝐞𝐫𝐚𝐭𝐮𝐫𝐞 & 𝐂𝐨𝐧𝐜𝐞𝐩𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭
+[3. How to conduct evidence-based research (38 min)](https://lnkd.in/gqDY9cwC)
 
-4. How to write a literature review (60 min)
-https://lnkd.in/gSh6Ge8T
+✍️ 𝐏𝐡𝐚𝐬𝐞 2:𝐋𝐢𝐭𝐞𝐫𝐚𝐭𝐮𝐫𝐞 & 𝐂𝐨𝐧𝐜𝐞𝐩𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭
 
-5. An editor’s guide to writing a review article (60 min)
-https://lnkd.in/gSh6Ge8T
+[4. How to write a literature review (60 min)](https://lnkd.in/gSh6Ge8T)
 
-6. How to prepare a proposal for a review article (60 min)
-https://lnkd.in/g72ibFDC
+[5. An editor’s guide to writing a review article (60 min)](https://lnkd.in/gSh6Ge8T)
+
+[6. How to prepare a proposal for a review article (60 min)](https://lnkd.in/g72ibFDC)
 
 ✍️ 𝐏𝐡𝐚𝐬𝐞 𝟑: 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐒𝐤𝐢𝐥𝐥𝐬
 
-7. How to use Generative AI in research (53 min)
-https://lnkd.in/gkG6473Z
+[7. How to use Generative AI in research (53 min)](https://lnkd.in/gkG6473Z)
 
-8. Author policies on the use of Generative AI (11 min)
-https://lnkd.in/gAXMYrmy
+[8. Author policies on the use of Generative AI (11 min)](https://lnkd.in/gAXMYrmy)
 
-9. How to secure funding (64 min)
-https://lnkd.in/grudGAn6
+[9. How to secure funding (64 min)](https://lnkd.in/grudGAn6)
 
 ✍️ 𝐏𝐡𝐚𝐬𝐞 𝟒: 𝐖𝐫𝐢𝐭𝐢𝐧𝐠 𝐭𝐡𝐞 𝐌𝐚𝐧𝐮𝐬𝐜𝐫𝐢𝐩𝐭
 
-10. How to prepare your manuscript (40 min)
-https://lnkd.in/gGb3AnBN
+[10. How to prepare your manuscript (40 min)](https://lnkd.in/gGb3AnBN)
 
-11. Structuring your article correctly (40 min)
-https://lnkd.in/gXd2Zwt5
+[11. Structuring your article correctly (40 min)](https://lnkd.in/gXd2Zwt5)
 
-12. How to write an abstract (40 min)
-https://lnkd.in/ga_vC5tH
+[12. How to write an abstract (40 min)](https://lnkd.in/ga_vC5tH)
 
-13. How to design effective figures for review articles (60 min)
-https://lnkd.in/gw_zxBdq
+[13. How to design effective figures for review articles (60 min)](https://lnkd.in/gw_zxBdq)
 
 ✍️ 𝐏𝐡𝐚𝐬𝐞 𝟓: 𝐉𝐨𝐮𝐫𝐧𝐚𝐥 𝐒𝐞𝐥𝐞𝐜𝐭𝐢𝐨𝐧 & 𝐒𝐮𝐛𝐦𝐢𝐬𝐬𝐢𝐨𝐧
 
-14. How to identify suitable journals for submission (15 min)
-https://lnkd.in/gXD6maYm
+[14. How to identify suitable journals for submission (15 min)](https://lnkd.in/gXD6maYm)
 
-15. How to write a cover letter for your manuscript (8 min)
-https://lnkd.in/gAKk8Qc3
+[15. How to write a cover letter for your manuscript (8 min)](https://lnkd.in/gAKk8Qc3)
 
 ✍️ 𝐏𝐡𝐚𝐬𝐞 𝟔: 𝐏𝐞𝐞𝐫 𝐑𝐞𝐯𝐢𝐞𝐰 & 𝐑𝐞𝐯𝐢𝐬𝐢𝐨𝐧
 
-16. How to respond to reviewers’ comments (37 min)
-https://lnkd.in/gYWVGQFd
+[16. How to respond to reviewers’ comments (37 min)](https://lnkd.in/gYWVGQFd)
 
 ✍️ 𝐏𝐡𝐚𝐬𝐞 𝟕: 𝐑𝐞𝐣𝐞𝐜𝐭𝐢𝐨𝐧 & 𝐑𝐞𝐬𝐮𝐛𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐲
 
-17. Understanding manuscript rejection and reasons why (7 min)
-https://lnkd.in/gSjutweQ
+[17. Understanding manuscript rejection and reasons why (7 min)](https://lnkd.in/gSjutweQ)
 
-18. Appealing the rejection and why you should think twice (2 min)
-https://lnkd.in/gsJtuHEU
+[18. Appealing the rejection and why you should think twice (2 min)](https://lnkd.in/gsJtuHEU)
 
-19. How to submit to the next journal if your paper is rejected (7 min)
-https://lnkd.in/grgmYvCp
+[19. How to submit to the next journal if your paper is rejected (7 min)](https://lnkd.in/grgmYvCp)
 
 ✍️ 𝐏𝐡𝐚𝐬𝐞 𝟖: 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐯𝐢𝐭𝐲
 
-20. How to turn your thesis into an article (60 min)
-https://lnkd.in/ghvtjqNp
+[20. How to turn your thesis into an article (60 min)}(https://lnkd.in/ghvtjqNp)
