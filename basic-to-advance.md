@@ -54,4 +54,4 @@
 
 ✍️ 𝐏𝐡𝐚𝐬𝐞 𝟖: 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐯𝐢𝐭𝐲
 
-[20. How to turn your thesis into an article (60 min)}(https://lnkd.in/ghvtjqNp)
+[20. How to turn your thesis into an article (60 min)](https://lnkd.in/ghvtjqNp)
