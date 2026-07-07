@@ -230,7 +230,7 @@ Community-based article access source mentioned in the original list. Treat tool
 ## Best Tool Combinations
 
 ### For a beginner researcher
-- Semantic Scholar for search
+- [Semantic Scholar for search](https://www.semanticscholar.org/)
 - Elicit for quick screening
 - Zotero for reference management
 - Google Docs for drafting
